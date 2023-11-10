@@ -20,7 +20,7 @@
 
 ## 実際の会計申請の流れ
 
-```Mermaid
+```mermaid
 flowchart LR
 
 start[購入希望品が発生] --> step1[会計申請フォームに必要事項を入力]
