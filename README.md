@@ -1,0 +1,2 @@
+# 23_KaikeiGAS
+Googleスプレッドシート、Googleフォーム、GoogleAppsScriptを用いたDiscordBotなど
